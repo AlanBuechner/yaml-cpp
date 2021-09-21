@@ -1,3 +1,8 @@
-build/
-/tags
-/bazel-*
+# directories
+.vs/
+bin/
+bin-int/
+out/
+
+*.sln
+*.vsxproj*
