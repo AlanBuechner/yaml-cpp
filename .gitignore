@@ -5,4 +5,4 @@ bin-int/
 out/
 
 *.sln
-*.vsxproj*
+*.vcxproj*
